@@ -1,0 +1,28 @@
+body{
+  text-align: center;
+}
+h1{
+  font-size: 80px;
+  font-family: fantasy;
+}
+h2{
+  font-family: fantasy;
+  font-size: 30px;
+  background-color: black;
+  color: white;
+  border-radius: 33px;
+}
+a{
+  font-family: monospace;
+  font-size: 18px;
+  color: white;
+}
+footer{
+  background-color: black;
+  text-align: left;
+}
+.top{
+  background-image: url("../IMG/the-flatiron-building.png");
+  background-size: cover;
+  color: white;
+}
